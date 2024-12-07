@@ -1,0 +1,13 @@
+.cadastroFundo{
+    border-top: 30px;
+    background-color: lightgray;
+    margin: 30px;
+    
+}
+.cadastro{
+    padding: 30px;
+}
+
+.mensagem{
+    font-size: 20px;
+}
